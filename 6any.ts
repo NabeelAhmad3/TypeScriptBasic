@@ -1,4 +1,4 @@
-let data :any=5;
+let data :any;
 data="Nabeel";
 data=3;
 data=true;
